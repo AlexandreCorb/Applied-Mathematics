@@ -39,7 +39,7 @@ The project includes:
 Implementation and analysis of stochastic epidemic models, focusing on **SIR models**, stochastic differential equation approximations, and Monte Carlo simulation methods.
 
 The project includes:
-- Deterministic and stochastic SIR models.
+- SIR models.
 - Stochastic differential equation approximations.
 - Monte Carlo methods.
 - Importance sampling for rare-event estimation.
