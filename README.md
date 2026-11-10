@@ -8,7 +8,7 @@ This repository brings together selected projects completed during my academic s
 
 ## Selected Projects
 
-### 1. Master Thesis — Asymptotic-Preserving Finite Elements for Plasma Models
+### 1. Master Thesis — An Asymptotic-Preserving Scheme for Braginskii Equations
 
 **EPFL · 2026**
 
